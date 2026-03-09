@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/jameswilsonphoto/solax"
+	"github.com/selles-medical/solax"
 )
 
 func main() {
